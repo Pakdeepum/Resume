@@ -1,0 +1,23 @@
+p{
+  margin-bottom: 0;
+}
+
+.container{
+    width: 100%;
+    display: block;
+}
+
+.container *{
+    color: #4f4f4f;
+    font-size: 1rem;
+    line-height: 1.2rem;
+    font-weight: 300;
+}
+
+.text-blue{
+    color:#446e96 !important;
+  }
+  
+  .text-grey{
+    color:#4f4f4f !important;
+  }

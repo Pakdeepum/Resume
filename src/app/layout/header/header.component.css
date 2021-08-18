@@ -1,0 +1,9 @@
+.header{
+    height: 50px;
+    display: flex;
+    background-color: #446e96;
+}
+
+.header * {
+    color: white;
+}
